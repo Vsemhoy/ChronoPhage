@@ -1,0 +1,4 @@
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Release\net8.0-android\publish\com.teftele.chronofuck-Signed.aab
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Release\net8.0-android\publish\com.teftele.chronofuck.aab
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Release\net8.0-android\publish\com.teftele.chronofuck-Signed.apk
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Release\net8.0-android\publish\_Microsoft.Android.Resource.Designer.dll

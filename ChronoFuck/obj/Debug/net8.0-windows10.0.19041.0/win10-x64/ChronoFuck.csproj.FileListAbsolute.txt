@@ -1,0 +1,562 @@
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.csproj.AssemblyReference.cache
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.GeneratedMSBuildEditorConfig.editorconfig
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.exe
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.deps.json
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.runtimeconfig.json
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.pdb
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.csproj.AssemblyReference.cache
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.GeneratedMSBuildEditorConfig.editorconfig
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\test_icon.scale-100.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\stop_black.scale-100.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\run_black.scale-100.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\run_e_black.scale-100.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.AssemblyInfoInputs.cache
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.AssemblyInfo.cs
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.csproj.CoreCompileInputs.cache
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.csproj.Up2Date
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\ChronoFuck.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.pdb
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.genruntimeconfig.cache
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\ChronoFuck.dll
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+G:\NET.Drives\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.exe
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.deps.json
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.runtimeconfig.json
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.pdb
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\run_black.scale-100.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\run_e_black.scale-100.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\stop_black.scale-100.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\test_icon.scale-100.png
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.AssemblyInfoInputs.cache
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.AssemblyInfo.cs
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.csproj.CoreCompileInputs.cache
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.csproj.Up2Date
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\ChronoFuck.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.pdb
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.genruntimeconfig.cache
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\ChronoFuck.dll
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\vsemh\YandexDisk\Dev_Folder\MAUI\ChronoFuck\ChronoFuck\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.exe
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.deps.json
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.runtimeconfig.json
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.pdb
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.csproj.AssemblyReference.cache
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\run_black.scale-100.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\run_e_black.scale-100.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\stop_black.scale-100.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\test_icon.scale-100.png
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.AssemblyInfoInputs.cache
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.AssemblyInfo.cs
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.csproj.CoreCompileInputs.cache
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.sourcelink.json
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.csproj.Up2Date
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\ChronoFuck.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.pdb
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ChronoFuck.genruntimeconfig.cache
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\ChronoFuck.dll
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt

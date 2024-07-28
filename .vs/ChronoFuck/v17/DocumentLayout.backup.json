@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\pages\\chrono\\chronorootpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\pages\\chrono\\chronorootpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\pages\\browser\\com\\activeeventcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\pages\\browser\\com\\activeeventcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\database\\models\\chronoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\database\\models\\chronoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\database\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\database\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\pages\\browser\\categorytypeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\pages\\browser\\categorytypeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\database\\localstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\database\\localstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\pages\\browser\\eventbrowserpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\pages\\browser\\eventbrowserpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\pages\\browser\\eventtypeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\pages\\browser\\eventtypeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\pages\\browser\\com\\eventitemcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\pages\\browser\\com\\eventitemcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\pages\\browser\\browserrootpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\pages\\browser\\browserrootpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\pages\\root\\maintabspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\pages\\root\\maintabspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\pages\\root\\maintabspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\pages\\root\\maintabspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\pages\\browser\\com\\categorycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\pages\\browser\\com\\categorycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\pages\\browser\\eventeditorpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\pages\\browser\\eventeditorpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\database\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\database\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\database\\models\\eventmetric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\database\\models\\eventmetric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronofuck\\chronofuck\\chronofuck\\pages\\old\\navpagedemo\\navcontentpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D7798AD0-D98B-4CC1-8BEA-8E0FD9DEA318}|ChronoFuck\\ChronoFuck.csproj|solutionrelative:chronofuck\\pages\\old\\navpagedemo\\navcontentpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 243,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{21457f7c-a428-477e-ae6d-e2b608734650}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BrowserRootPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Browser\\BrowserRootPage.xaml.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\Pages\\Browser\\BrowserRootPage.xaml.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Browser\\BrowserRootPage.xaml.cs",
+              "RelativeToolTip": "ChronoFuck\\Pages\\Browser\\BrowserRootPage.xaml.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAqwOgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T18:03:09.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventBrowserPage.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Browser\\EventBrowserPage.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\Pages\\Browser\\EventBrowserPage.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Browser\\EventBrowserPage.cs",
+              "RelativeToolTip": "ChronoFuck\\Pages\\Browser\\EventBrowserPage.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAIAwwGQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:46:03.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryCard.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Browser\\Com\\CategoryCard.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\Pages\\Browser\\Com\\CategoryCard.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Browser\\Com\\CategoryCard.cs",
+              "RelativeToolTip": "ChronoFuck\\Pages\\Browser\\Com\\CategoryCard.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwE8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T18:47:59.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\App.xaml",
+              "RelativeDocumentMoniker": "ChronoFuck\\App.xaml",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\App.xaml",
+              "RelativeToolTip": "ChronoFuck\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T15:04:46.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventTypeEditor.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Browser\\EventTypeEditor.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\Pages\\Browser\\EventTypeEditor.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Browser\\EventTypeEditor.cs",
+              "RelativeToolTip": "ChronoFuck\\Pages\\Browser\\EventTypeEditor.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:38:45.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChronoRootPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Chrono\\ChronoRootPage.xaml.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\Pages\\Chrono\\ChronoRootPage.xaml.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Chrono\\ChronoRootPage.xaml.cs",
+              "RelativeToolTip": "ChronoFuck\\Pages\\Chrono\\ChronoRootPage.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAHEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:34:10.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryTypeEditor.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Browser\\CategoryTypeEditor.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\Pages\\Browser\\CategoryTypeEditor.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Browser\\CategoryTypeEditor.cs",
+              "RelativeToolTip": "ChronoFuck\\Pages\\Browser\\CategoryTypeEditor.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAAAPkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:10:05.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainTabsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Root\\MainTabsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\Pages\\Root\\MainTabsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Root\\MainTabsPage.xaml.cs",
+              "RelativeToolTip": "ChronoFuck\\Pages\\Root\\MainTabsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:18:07.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\App.xaml.cs",
+              "RelativeToolTip": "ChronoFuck\\App.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwCQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:04:46.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ChronoFuck\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\AppShell.xaml",
+              "RelativeToolTip": "ChronoFuck\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-26T18:25:24.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainTabsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Root\\MainTabsPage.xaml",
+              "RelativeDocumentMoniker": "ChronoFuck\\Pages\\Root\\MainTabsPage.xaml",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Root\\MainTabsPage.xaml",
+              "RelativeToolTip": "ChronoFuck\\Pages\\Root\\MainTabsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-26T18:25:56.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\AppShell.xaml.cs",
+              "RelativeToolTip": "ChronoFuck\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:06:42.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ChronoFuck\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\MainPage.xaml",
+              "RelativeToolTip": "ChronoFuck\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T16:06:50.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Database\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\Database\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Database\\DatabaseService.cs",
+              "RelativeToolTip": "ChronoFuck\\Database\\DatabaseService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:15:00.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventMetric.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Database\\Models\\EventMetric.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\Database\\Models\\EventMetric.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Database\\Models\\EventMetric.cs",
+              "RelativeToolTip": "ChronoFuck\\Database\\Models\\EventMetric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T17:23:13.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Database\\Config.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\Database\\Config.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Database\\Config.cs",
+              "RelativeToolTip": "ChronoFuck\\Database\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T20:17:25.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NavContentPage1.xaml",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\OLD\\NavPageDemo\\NavContentPage1.xaml",
+              "RelativeDocumentMoniker": "ChronoFuck\\Pages\\OLD\\NavPageDemo\\NavContentPage1.xaml",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\OLD\\NavPageDemo\\NavContentPage1.xaml",
+              "RelativeToolTip": "ChronoFuck\\Pages\\OLD\\NavPageDemo\\NavContentPage1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T15:54:58.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 277,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventType.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Database\\Models\\EventType.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\Database\\Models\\EventType.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Database\\Models\\EventType.cs",
+              "RelativeToolTip": "ChronoFuck\\Database\\Models\\EventType.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T00:17:44.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChronoEvent.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Database\\Models\\ChronoEvent.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\Database\\Models\\ChronoEvent.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Database\\Models\\ChronoEvent.cs",
+              "RelativeToolTip": "ChronoFuck\\Database\\Models\\ChronoEvent.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T20:37:13.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActiveEventCard.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Browser\\Com\\ActiveEventCard.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\Pages\\Browser\\Com\\ActiveEventCard.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Browser\\Com\\ActiveEventCard.cs",
+              "RelativeToolTip": "ChronoFuck\\Pages\\Browser\\Com\\ActiveEventCard.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAqwKoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:24:29.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventItemCard.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Browser\\Com\\EventItemCard.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\Pages\\Browser\\Com\\EventItemCard.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Browser\\Com\\EventItemCard.cs",
+              "RelativeToolTip": "ChronoFuck\\Pages\\Browser\\Com\\EventItemCard.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAALMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:48:08.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocalStorage.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Database\\LocalStorage.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\Database\\LocalStorage.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Database\\LocalStorage.cs",
+              "RelativeToolTip": "ChronoFuck\\Database\\LocalStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:09:38.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventEditorPage.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Browser\\EventEditorPage.cs",
+              "RelativeDocumentMoniker": "ChronoFuck\\Pages\\Browser\\EventEditorPage.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoFuck\\ChronoFuck\\ChronoFuck\\Pages\\Browser\\EventEditorPage.cs",
+              "RelativeToolTip": "ChronoFuck\\Pages\\Browser\\EventEditorPage.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:38:28.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

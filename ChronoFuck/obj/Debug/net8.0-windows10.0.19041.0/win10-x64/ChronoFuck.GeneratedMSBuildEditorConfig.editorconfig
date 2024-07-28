@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net8.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ChronoFuck
+build_property.ProjectDir = D:\NET Drives\YandexDisk\Dev_Folder\MAUI\ChronoPhage\ChronoFuck\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[D:/NET Drives/YandexDisk/Dev_Folder/MAUI/ChronoPhage/ChronoFuck/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChronoFuck.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/NET Drives/YandexDisk/Dev_Folder/MAUI/ChronoPhage/ChronoFuck/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChronoFuck.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/NET Drives/YandexDisk/Dev_Folder/MAUI/ChronoPhage/ChronoFuck/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChronoFuck.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/NET Drives/YandexDisk/Dev_Folder/MAUI/ChronoPhage/ChronoFuck/Pages/Browser/BrowserRootPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChronoFuck.Pages.Browser.BrowserRootPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Browser\BrowserRootPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Browser\BrowserRootPage.xaml
+
+[D:/NET Drives/YandexDisk/Dev_Folder/MAUI/ChronoPhage/ChronoFuck/Pages/Chrono/ChronoRootPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChronoFuck.Pages.Chrono.ChronoRootPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Chrono\ChronoRootPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Chrono\ChronoRootPage.xaml
+
+[D:/NET Drives/YandexDisk/Dev_Folder/MAUI/ChronoPhage/ChronoFuck/Pages/Groups/GroupsRootPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChronoFuck.Pages.Groups.GroupsRootPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Groups\GroupsRootPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Groups\GroupsRootPage.xaml
+
+[D:/NET Drives/YandexDisk/Dev_Folder/MAUI/ChronoPhage/ChronoFuck/Pages/OLD/FlyOutPageDemo/DemoFlyoutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChronoFuck.Pages.OLD.FlyOutPageDemo.DemoFlyoutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\OLD\FlyOutPageDemo\DemoFlyoutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\OLD\FlyOutPageDemo\DemoFlyoutPage.xaml
+
+[D:/NET Drives/YandexDisk/Dev_Folder/MAUI/ChronoPhage/ChronoFuck/Pages/OLD/NavPageDemo/NavContentPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChronoFuck.Pages.OLD.NavPageDemo.NavContentPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\OLD\NavPageDemo\NavContentPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\OLD\NavPageDemo\NavContentPage1.xaml
+
+[D:/NET Drives/YandexDisk/Dev_Folder/MAUI/ChronoPhage/ChronoFuck/Pages/OLD/NavPageDemo/NavContentPage2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChronoFuck.Pages.OLD.NavPageDemo.NavContentPage2.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\OLD\NavPageDemo\NavContentPage2.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\OLD\NavPageDemo\NavContentPage2.xaml
+
+[D:/NET Drives/YandexDisk/Dev_Folder/MAUI/ChronoPhage/ChronoFuck/Pages/OLD/NavPageDemo/NavContentPage3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChronoFuck.Pages.OLD.NavPageDemo.NavContentPage3.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\OLD\NavPageDemo\NavContentPage3.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\OLD\NavPageDemo\NavContentPage3.xaml
+
+[D:/NET Drives/YandexDisk/Dev_Folder/MAUI/ChronoPhage/ChronoFuck/Pages/Root/MainTabsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChronoFuck.Pages.Root.MainTabsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Root\MainTabsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Root\MainTabsPage.xaml
+
+[D:/NET Drives/YandexDisk/Dev_Folder/MAUI/ChronoPhage/ChronoFuck/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChronoFuck.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/NET Drives/YandexDisk/Dev_Folder/MAUI/ChronoPhage/ChronoFuck/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChronoFuck.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
