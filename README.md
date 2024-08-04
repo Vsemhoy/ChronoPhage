@@ -1,2 +1,0 @@
-# ChronoPhage
- Time registrator
