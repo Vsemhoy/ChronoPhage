@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\NET Drives\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronophage\\chronophage\\pages\\root\\rootshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|solutionrelative:chronophage\\pages\\root\\rootshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronophage\\chronophage\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|solutionrelative:chronophage\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,33 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 284,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ChronoPhage\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\App.xaml.cs",
+              "RelativeToolTip": "ChronoPhage\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:25:23.748Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{21457f7c-a428-477e-ae6d-e2b608734650}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 226,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RootShell.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Root\\RootShell.cs",
+              "RelativeDocumentMoniker": "ChronoPhage\\Pages\\Root\\RootShell.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Root\\RootShell.cs",
+              "RelativeToolTip": "ChronoPhage\\Pages\\Root\\RootShell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:20:48.711Z",
+              "EditorCaption": ""
             }
           ]
         }
