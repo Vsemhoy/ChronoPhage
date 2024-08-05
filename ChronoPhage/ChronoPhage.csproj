@@ -63,9 +63,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Core\" />
-	  <Folder Include="Pages\Com\MainPage\" />
-	  <Folder Include="Pages\Com\StoryPage\" />
 	  <Folder Include="Pages\Com\StatPage\" />
 	  <Folder Include="Pages\Elements\Cards\Modals\" />
 	  <Folder Include="Pages\Elements\Cards\" />

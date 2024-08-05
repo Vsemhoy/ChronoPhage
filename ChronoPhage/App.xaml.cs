@@ -1,4 +1,5 @@
-﻿using ChronoPhage.Pages.Root;
+﻿using ChronoPhage.Core;
+using ChronoPhage.Pages.Root;
 
 namespace ChronoPhage
 {
@@ -8,7 +9,7 @@ namespace ChronoPhage
         {
             InitializeComponent();
 
-            MainPage = new RootShell();
+            MainPage = PageManager.RootShell;
         }
     }
 }

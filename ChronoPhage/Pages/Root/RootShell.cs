@@ -1,4 +1,8 @@
-﻿using System;
+﻿using ChronoPhage.Core;
+using ChronoPhage.Pages.Com.MainPage;
+using ChronoPhage.Pages.Com.MainPage.Stacks;
+using ChronoPhage.Pages.Com.StoryPage;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,28 +16,42 @@ namespace ChronoPhage.Pages.Root
         ShellContent MainShellPage { get; set; }
         ShellContent StoryPage {  get; set; }
 
+        FlyoutItem MainFlyoutItem { get; set; }
+        FlyoutItem StoryFlyoutItem { get; set; }
+
+
+
+
+
         public RootShell()
         {
             TabBar tabBar = new TabBar();
+            this.FlyoutBehavior = FlyoutBehavior.Disabled;
+            
+
             
             this.BackgroundColor = Colors.AliceBlue;
 
             this.MainShellPage = new ShellContent();
-            this.MainShellPage.Content = new MainPage();
+            this.MainShellPage.Content = PageManager.MainPage;
             this.MainShellPage.Title = "Browser";
             this.MainShellPage.Icon = "dotnet_bot.png";
+
             tabBar.Items.Add(this.MainShellPage);
 
 
             this.StoryPage = new ShellContent();
-            this.StoryPage.Content = new MainPage();
+            this.StoryPage.Content = PageManager.StoryPage;
             this.StoryPage.Title = "Story";
             this.StoryPage.Icon = "dotnet_bot.png";
+            this.StoryPage.FlyoutItemIsVisible = false;
             tabBar.Items.Add(this.StoryPage);
 
 
+
+
+
             this.CurrentItem = this.MainShellPage;
-            
         }
     }
 }
