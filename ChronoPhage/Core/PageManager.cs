@@ -25,5 +25,8 @@ namespace ChronoPhage.Core
 
         // All other pages can be initialized before call it within RootShell
         public static Shell RootShell = new RootShell();
+
+
+
     }
 }

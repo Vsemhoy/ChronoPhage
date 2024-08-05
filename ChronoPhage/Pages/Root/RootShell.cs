@@ -35,15 +35,14 @@ namespace ChronoPhage.Pages.Root
             this.MainShellPage = new ShellContent();
             this.MainShellPage.Content = PageManager.MainPage;
             this.MainShellPage.Title = "Browser";
-            this.MainShellPage.Icon = "dotnet_bot.png";
-
+            this.MainShellPage.Icon = "collection_play_fill.png";
             tabBar.Items.Add(this.MainShellPage);
 
 
             this.StoryPage = new ShellContent();
             this.StoryPage.Content = PageManager.StoryPage;
             this.StoryPage.Title = "Story";
-            this.StoryPage.Icon = "dotnet_bot.png";
+            this.StoryPage.Icon = "clock_history.png";
             this.StoryPage.FlyoutItemIsVisible = false;
             tabBar.Items.Add(this.StoryPage);
 

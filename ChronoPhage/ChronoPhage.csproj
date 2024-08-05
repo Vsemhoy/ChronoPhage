@@ -57,17 +57,31 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\clock_history.svg" />
+	  <None Remove="Resources\Images\collection_play_fill.svg" />
+	  <None Remove="Resources\Images\desktop.ini" />
+	  <None Remove="Resources\Images\emoji_smile.svg" />
+	  <None Remove="Resources\Images\play_fill.svg" />
+	  <None Remove="Resources\Images\plus.svg" />
+	  <None Remove="Resources\Images\plus_circle.svg" />
+	  <None Remove="Resources\Images\plus_circle_dotted.svg" />
+	  <None Remove="Resources\Images\plus_circle_fill.svg" />
+	  <None Remove="Resources\Images\plus_lg.svg" />
+	  <None Remove="Resources\Images\plus_slash_minus.svg" />
+	  <None Remove="Resources\Images\plus_square.svg" />
+	  <None Remove="Resources\Images\plus_square_dotted.svg" />
+	  <None Remove="Resources\Images\plus_square_fill.svg" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
+		<PackageReference Include="sqlite-net-pcl" Version="1.9.172" />
 	</ItemGroup>
 
 	<ItemGroup>
 	  <Folder Include="Pages\Com\StatPage\" />
-	  <Folder Include="Pages\Elements\Cards\Modals\" />
-	  <Folder Include="Pages\Elements\Cards\" />
-	  <Folder Include="Pages\Elements\" />
-	  <Folder Include="Storage\Database\" />
 	</ItemGroup>
 
 </Project>

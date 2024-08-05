@@ -90,7 +90,7 @@ namespace ChronoPhage.Pages.Com.MainPage
 
         private async void TbItem1_Clicked(object? sender, EventArgs e)
         {
-            Navigation.PushAsync(PageManager.TypeBrowserInCategoryPage);
+            await Navigation.PushAsync(PageManager.TypeBrowserInCategoryPage);
         }
     }
 }

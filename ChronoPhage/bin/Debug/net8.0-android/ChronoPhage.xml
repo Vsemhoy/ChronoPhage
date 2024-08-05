@@ -4,5 +4,202 @@
         <name>ChronoPhage</name>
     </assembly>
     <members>
+        <member name="M:ChronoPhage.Pages.Elements.Cards.CategoryAddMiniCard.OnClick_Tapped(System.Object,Microsoft.Maui.Controls.TappedEventArgs)">
+            <summary>
+            Open Category Editor as Create new Item
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ChronoPhage.Pages.Elements.Cards.CategoryMiniCard.OnClick_Tapped(System.Object,Microsoft.Maui.Controls.TappedEventArgs)">
+            <summary>
+            Open Category Editor as Create new Item
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:ChronoPhage.Storage.Database.DatabaseService.DBS">
+            Sync version of connection 
+        </member>
+        <member name="F:ChronoPhage.Storage.Database.DatabaseService.DB">
+            Async version of connection 
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.DatabaseService.INITIALZE_TABLES">
+            <summary>
+            Create Database tables before App starts
+            </summary>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.ChronoEvent.InsertItemAsync(ChronoPhage.Storage.Database.Models.ChronoEvent)">
+            <summary>
+            Insert an element and return object if Success
+            OR return object with Empty ID
+            </summary>
+            <returns>ChronoEvent</returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.ChronoEvent.GetLastinserted">
+            <summary>
+            Returns last inserted item depends on CreatedAt field
+            </summary>
+            <returns>ChronoEvent</returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.ChronoEvent.MakeId">
+            <summary>
+            Generate unique ID for new row
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.ChronoEvent.GetItemByIdAsync(System.String)">
+            <summary>
+            Returns only one Item
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.ChronoEvent.GetAllActiveItemsAsync">
+            <summary>
+            Get collection of active items
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.ChronoEvent.GetAllItemsFromCategoryAsync(System.String)">
+            <summary>
+            GEt collection of items filtered by category ID
+            </summary>
+            <param name="category_id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.ChronoEvent.UpdateItemAsync(ChronoPhage.Storage.Database.Models.ChronoEvent)">
+            <summary>
+            Update fields inside one item by it's ID (should be defined within object)
+            </summary>
+            <param name="item"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.ChronoEvent.DeleteItemAsync``1(``0)">
+            <summary>
+            Remove item by it's ID (should be defined within object)
+            </summary>
+            <typeparam name="ChronoEvent"></typeparam>
+            <param name="item"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.EventCategory.InsertItemAsync(ChronoPhage.Storage.Database.Models.EventCategory)">
+            <summary>
+            Insert an element and return object if Success
+            OR return object with Empty ID
+            </summary>
+            <returns>EventCategory</returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.EventCategory.GetLastinserted">
+            <summary>
+            Returns last inserted item depends on CreatedAt field
+            </summary>
+            <returns>EventCategory</returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.EventCategory.MakeId">
+            <summary>
+            Generate unique ID for new row
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.EventCategory.GetItemByIdAsync(System.String)">
+            <summary>
+            Returns only one Item
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.EventCategory.CountAll(System.Boolean)">
+            <summary>
+            Get count of all rows
+            </summary>
+            <param name="onlyActive"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.EventCategory.UpdateItemAsync(ChronoPhage.Storage.Database.Models.EventCategory)">
+            <summary>
+            Update fields inside one item by it's ID (should be defined within object)
+            </summary>
+            <param name="item"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.EventCategory.DeleteItemAsync``1(``0)">
+            <summary>
+            Remove item by it's ID (should be defined within object)
+            </summary>
+            <typeparam name="EventCategory"></typeparam>
+            <param name="item"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.EventType.InsertItemAsync(ChronoPhage.Storage.Database.Models.EventType)">
+            <summary>
+            Insert an element and return object if Success
+            OR return object with Empty ID
+            </summary>
+            <returns>EventType</returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.EventType.GetLastinserted">
+            <summary>
+            Returns last inserted item depends on CreatedAt field
+            </summary>
+            <returns>EventType</returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.EventType.MakeId">
+            <summary>
+            Generate unique ID for new row
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.EventType.GetItemByIdAsync(System.String)">
+            <summary>
+            Returns only one Item
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.EventType.GetAllActiveItemsAsync">
+            <summary>
+            Get collection of active items
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.EventType.GetAllActiveItemsByCategoryAsync(System.String)">
+            <summary>
+            Get collection of active items
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.EventType.CountAll(System.Boolean)">
+            <summary>
+            Get count of all rows
+            </summary>
+            <param name="onlyActive"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.EventType.GetAllActiveItemsFromCategoryAsync(System.String)">
+            <summary>
+            GEt collection of items filtered by category ID
+            </summary>
+            <param name="category_id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.EventType.UpdateItemAsync(ChronoPhage.Storage.Database.Models.EventType)">
+            <summary>
+            Update fields inside one item by it's ID (should be defined within object)
+            </summary>
+            <param name="item"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ChronoPhage.Storage.Database.Models.EventType.DeleteItemAsync``1(``0)">
+            <summary>
+            Remove item by it's ID (should be defined within object)
+            </summary>
+            <typeparam name="EventType"></typeparam>
+            <param name="item"></param>
+            <returns></returns>
+        </member>
+        <member name="P:ChronoFuck.Database.StorageConfig.DatabasePath">
+            A full database path
+        </member>
     </members>
 </doc>
