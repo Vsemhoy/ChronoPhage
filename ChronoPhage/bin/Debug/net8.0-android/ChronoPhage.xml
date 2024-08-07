@@ -18,6 +18,14 @@
             <param name="sender"></param>
             <param name="e"></param>
         </member>
+        <member name="M:ChronoPhage.Pages.Elements.Modals.CategoryEditorModal.Button_colorPicker_Clicked(System.Object,System.EventArgs)">
+            <summary>
+            Open modal window with color picker
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+            <exception cref="T:System.NotImplementedException"></exception>
+        </member>
         <member name="F:ChronoPhage.Storage.Database.DatabaseService.DBS">
             Sync version of connection 
         </member>

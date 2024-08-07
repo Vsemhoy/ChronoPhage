@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronophage\\chronophage\\pages\\elements\\modals\\categoryeditormodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|solutionrelative:chronophage\\pages\\elements\\modals\\categoryeditormodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronophage\\chronophage\\pages\\elements\\modals\\colorpickermodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|solutionrelative:chronophage\\pages\\elements\\modals\\colorpickermodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronophage\\chronophage\\style\\theme_lightstandard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|solutionrelative:chronophage\\style\\theme_lightstandard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronophage\\chronophage\\pages\\elements\\text\\legendlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|solutionrelative:chronophage\\pages\\elements\\text\\legendlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronophage\\chronophage\\style\\itheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|solutionrelative:chronophage\\style\\itheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronophage\\chronophage\\pages\\elements\\cards\\categoryaddminicard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|solutionrelative:chronophage\\pages\\elements\\cards\\categoryaddminicard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronophage\\chronophage\\storage\\localstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|solutionrelative:chronophage\\storage\\localstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronophage\\chronophage\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|solutionrelative:chronophage\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|solutionrelative:chronophage\\core\\pagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronophage\\chronophage\\pages\\elements\\cards\\categoryaddminicard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|solutionrelative:chronophage\\pages\\elements\\cards\\categoryaddminicard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronophage\\chronophage\\pages\\com\\mainpage\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|solutionrelative:chronophage\\pages\\com\\mainpage\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronophage\\chronophage\\storage\\localstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|solutionrelative:chronophage\\storage\\localstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronophage\\chronophage\\storage\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronophage\\chronophage\\storage\\database\\models\\chronoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|solutionrelative:chronophage\\storage\\database\\models\\chronoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronophage\\chronophage\\pages\\elements\\modals\\categoryeditormodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|solutionrelative:chronophage\\pages\\elements\\modals\\categoryeditormodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7398BDA9-377C-4C8F-B098-D811D49203F2}|ChronoPhage\\ChronoPhage.csproj|c:\\users\\vsemh\\yandexdisk\\dev_folder\\maui\\chronophage\\chronophage\\core\\modalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -101,50 +117,12 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 217,
-          "SelectedChildIndex": 8,
+          "DockedWidth": 299,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{21457f7c-a428-477e-ae6d-e2b608734650}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PageManager.cs",
-              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Core\\PageManager.cs",
-              "RelativeDocumentMoniker": "ChronoPhage\\Core\\PageManager.cs",
-              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Core\\PageManager.cs",
-              "RelativeToolTip": "ChronoPhage\\Core\\PageManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T20:56:41.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainPage.cs",
-              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Com\\MainPage\\MainPage.cs",
-              "RelativeDocumentMoniker": "ChronoPhage\\Pages\\Com\\MainPage\\MainPage.cs",
-              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Com\\MainPage\\MainPage.cs",
-              "RelativeToolTip": "ChronoPhage\\Pages\\Com\\MainPage\\MainPage.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAUwEcAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T21:02:04.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "CategoryStack.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Com\\MainPage\\Stacks\\CategoryStack.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Pages\\Com\\MainPage\\Stacks\\CategoryStack.cs",
@@ -152,12 +130,11 @@
               "RelativeToolTip": "ChronoPhage\\Pages\\Com\\MainPage\\Stacks\\CategoryStack.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAAADUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T23:19:56.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T23:19:56.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "RootShell.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Root\\RootShell.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Pages\\Root\\RootShell.cs",
@@ -165,12 +142,11 @@
               "RelativeToolTip": "ChronoPhage\\Pages\\Root\\RootShell.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAA7wDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T20:55:11.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T20:55:11.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "RecentTypeStack.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Com\\MainPage\\Stacks\\RecentTypeStack.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Pages\\Com\\MainPage\\Stacks\\RecentTypeStack.cs",
@@ -178,12 +154,11 @@
               "RelativeToolTip": "ChronoPhage\\Pages\\Com\\MainPage\\Stacks\\RecentTypeStack.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T23:21:00.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T23:21:00.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\App.xaml.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\App.xaml.cs",
@@ -191,12 +166,48 @@
               "RelativeToolTip": "ChronoPhage\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T20:55:23.364Z",
+              "WhenOpened": "2024-08-04T20:55:23.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryEditorModal.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Elements\\Modals\\CategoryEditorModal.cs",
+              "RelativeDocumentMoniker": "ChronoPhage\\Pages\\Elements\\Modals\\CategoryEditorModal.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Elements\\Modals\\CategoryEditorModal.cs",
+              "RelativeToolTip": "ChronoPhage\\Pages\\Elements\\Modals\\CategoryEditorModal.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowGQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T21:59:48.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Com\\MainPage\\MainPage.cs",
+              "RelativeDocumentMoniker": "ChronoPhage\\Pages\\Com\\MainPage\\MainPage.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Com\\MainPage\\MainPage.cs",
+              "RelativeToolTip": "ChronoPhage\\Pages\\Com\\MainPage\\MainPage.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwEcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:02:04.624Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "PageManager.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Core\\PageManager.cs",
+              "RelativeDocumentMoniker": "ChronoPhage\\Core\\PageManager.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Core\\PageManager.cs",
+              "RelativeToolTip": "ChronoPhage\\Core\\PageManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:56:41.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ModalManager.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Core\\ModalManager.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Core\\ModalManager.cs",
@@ -204,25 +215,11 @@
               "RelativeToolTip": "ChronoPhage\\Core\\ModalManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T21:56:12.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T21:56:12.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoryEditorModal.cs",
-              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Elements\\Modals\\CategoryEditorModal.cs",
-              "RelativeDocumentMoniker": "ChronoPhage\\Pages\\Elements\\Modals\\CategoryEditorModal.cs",
-              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Elements\\Modals\\CategoryEditorModal.cs",
-              "RelativeToolTip": "ChronoPhage\\Pages\\Elements\\Modals\\CategoryEditorModal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T21:59:48.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "StoryPage.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Com\\StoryPage\\StoryPage.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Pages\\Com\\StoryPage\\StoryPage.cs",
@@ -230,12 +227,11 @@
               "RelativeToolTip": "ChronoPhage\\Pages\\Com\\StoryPage\\StoryPage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T22:27:44.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T22:27:44.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "TypeBrowserInCategoryPage.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Com\\MainPage\\TypeBrowserInCategoryPage.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Pages\\Com\\MainPage\\TypeBrowserInCategoryPage.cs",
@@ -243,12 +239,11 @@
               "RelativeToolTip": "ChronoPhage\\Pages\\Com\\MainPage\\TypeBrowserInCategoryPage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T21:05:57.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T21:05:57.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "EventGroup.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Storage\\Database\\Models\\EventGroup.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Storage\\Database\\Models\\EventGroup.cs",
@@ -256,12 +251,11 @@
               "RelativeToolTip": "ChronoPhage\\Storage\\Database\\Models\\EventGroup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T19:00:18.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T19:00:18.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "EventMetric.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Storage\\Database\\Models\\EventMetric.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Storage\\Database\\Models\\EventMetric.cs",
@@ -269,12 +263,11 @@
               "RelativeToolTip": "ChronoPhage\\Storage\\Database\\Models\\EventMetric.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T19:01:32.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T19:01:32.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "EventGroupContainer.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Storage\\Database\\Models\\EventGroupContainer.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Storage\\Database\\Models\\EventGroupContainer.cs",
@@ -282,12 +275,11 @@
               "RelativeToolTip": "ChronoPhage\\Storage\\Database\\Models\\EventGroupContainer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T19:01:52.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T19:01:52.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "EventTag.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Storage\\Database\\Models\\EventTag.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Storage\\Database\\Models\\EventTag.cs",
@@ -295,12 +287,11 @@
               "RelativeToolTip": "ChronoPhage\\Storage\\Database\\Models\\EventTag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T19:02:24.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T19:02:24.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "NextTypeStack.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Com\\MainPage\\Stacks\\NextTypeStack.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Pages\\Com\\MainPage\\Stacks\\NextTypeStack.cs",
@@ -308,12 +299,11 @@
               "RelativeToolTip": "ChronoPhage\\Pages\\Com\\MainPage\\Stacks\\NextTypeStack.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T23:21:20.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T23:21:20.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "PopularTypeStack.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Com\\MainPage\\Stacks\\PopularTypeStack.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Pages\\Com\\MainPage\\Stacks\\PopularTypeStack.cs",
@@ -321,8 +311,50 @@
               "RelativeToolTip": "ChronoPhage\\Pages\\Com\\MainPage\\Stacks\\PopularTypeStack.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T23:22:17.707Z",
+              "WhenOpened": "2024-08-04T23:22:17.707Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColorPickerModal.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Elements\\Modals\\ColorPickerModal.cs",
+              "RelativeDocumentMoniker": "ChronoPhage\\Pages\\Elements\\Modals\\ColorPickerModal.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Elements\\Modals\\ColorPickerModal.cs",
+              "RelativeToolTip": "ChronoPhage\\Pages\\Elements\\Modals\\ColorPickerModal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:48:55.82Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LegendLabel.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Elements\\Text\\LegendLabel.cs",
+              "RelativeDocumentMoniker": "ChronoPhage\\Pages\\Elements\\Text\\LegendLabel.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Elements\\Text\\LegendLabel.cs",
+              "RelativeToolTip": "ChronoPhage\\Pages\\Elements\\Text\\LegendLabel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:31:22.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryAddMiniCard.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Elements\\Cards\\CategoryAddMiniCard.cs",
+              "RelativeDocumentMoniker": "ChronoPhage\\Pages\\Elements\\Cards\\CategoryAddMiniCard.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Elements\\Cards\\CategoryAddMiniCard.cs",
+              "RelativeToolTip": "ChronoPhage\\Pages\\Elements\\Cards\\CategoryAddMiniCard.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:30:09.021Z"
             }
           ]
         },
@@ -331,25 +363,33 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITheme.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Style\\ITheme.cs",
+              "RelativeDocumentMoniker": "ChronoPhage\\Style\\ITheme.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Style\\ITheme.cs",
+              "RelativeToolTip": "ChronoPhage\\Style\\ITheme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:09:37.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryAddMiniCard.cs",
-              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Elements\\Cards\\CategoryAddMiniCard.cs",
-              "RelativeDocumentMoniker": "ChronoPhage\\Pages\\Elements\\Cards\\CategoryAddMiniCard.cs",
-              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Pages\\Elements\\Cards\\CategoryAddMiniCard.cs",
-              "RelativeToolTip": "ChronoPhage\\Pages\\Elements\\Cards\\CategoryAddMiniCard.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB0AAAA/AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Theme_LightStandard.cs",
+              "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Style\\Theme_LightStandard.cs",
+              "RelativeDocumentMoniker": "ChronoPhage\\Style\\Theme_LightStandard.cs",
+              "ToolTip": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Style\\Theme_LightStandard.cs",
+              "RelativeToolTip": "ChronoPhage\\Style\\Theme_LightStandard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T22:30:09.021Z",
+              "WhenOpened": "2024-08-07T18:06:17.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LocalStorage.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Storage\\LocalStorage.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Storage\\LocalStorage.cs",
@@ -357,12 +397,11 @@
               "RelativeToolTip": "ChronoPhage\\Storage\\LocalStorage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T19:17:28.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T19:17:28.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "DatabaseService.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Storage\\Database\\DatabaseService.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Storage\\Database\\DatabaseService.cs",
@@ -370,12 +409,11 @@
               "RelativeToolTip": "ChronoPhage\\Storage\\Database\\DatabaseService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T19:15:21.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T19:15:21.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "StorageConfig.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Storage\\StorageConfig.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Storage\\StorageConfig.cs",
@@ -383,12 +421,11 @@
               "RelativeToolTip": "ChronoPhage\\Storage\\StorageConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T19:13:42.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T19:13:42.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "EventCategory.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Storage\\Database\\Models\\EventCategory.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Storage\\Database\\Models\\EventCategory.cs",
@@ -396,12 +433,11 @@
               "RelativeToolTip": "ChronoPhage\\Storage\\Database\\Models\\EventCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T18:59:04.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T18:59:04.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "EventType.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Storage\\Database\\Models\\EventType.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Storage\\Database\\Models\\EventType.cs",
@@ -409,12 +445,11 @@
               "RelativeToolTip": "ChronoPhage\\Storage\\Database\\Models\\EventType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T19:00:50.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T19:00:50.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "ChronoEvent.cs",
               "DocumentMoniker": "C:\\Users\\vsemh\\YandexDisk\\Dev_Folder\\MAUI\\ChronoPhage\\ChronoPhage\\Storage\\Database\\Models\\ChronoEvent.cs",
               "RelativeDocumentMoniker": "ChronoPhage\\Storage\\Database\\Models\\ChronoEvent.cs",
@@ -422,8 +457,7 @@
               "RelativeToolTip": "ChronoPhage\\Storage\\Database\\Models\\ChronoEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T18:58:43.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T18:58:43.582Z"
             }
           ]
         }
