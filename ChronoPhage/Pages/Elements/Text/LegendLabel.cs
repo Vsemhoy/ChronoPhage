@@ -17,7 +17,7 @@ namespace ChronoPhage.Pages.Elements.Text
             topPadding.HeightRequest = BaseTheme.THEME.modalLegendTopMargin;
 
             HorizontalStackLayout bottomPadding = new HorizontalStackLayout();
-            bottomPadding.HeightRequest = BaseTheme.THEME.modalLegendTopMargin / 4;
+            bottomPadding.HeightRequest = BaseTheme.THEME.modalLegendTopMargin / 8;
 
             this.textLabel.Padding = 4;
             this.textLabel.Text = text;

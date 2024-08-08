@@ -19,5 +19,6 @@ namespace ChronoPhage.Style
         public int formFramePadding { get; set; }
         public int modalLegendTextSize { get; set; }
         public int modalLegendTopMargin { get; set; }
+        public int categoryItemMiniCardMinHeight { get; set; }
     }
 }

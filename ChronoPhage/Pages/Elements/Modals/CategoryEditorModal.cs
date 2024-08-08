@@ -1,4 +1,5 @@
-﻿using ChronoPhage.Pages.Elements.Text;
+﻿using ChronoPhage.Core;
+using ChronoPhage.Pages.Elements.Text;
 using ChronoPhage.Style;
 using Microsoft.Maui.Controls;
 
@@ -40,9 +41,10 @@ namespace ChronoPhage.Pages.Elements.Modals
 
         public ColorPickerModal colorPickerModal;
 
-        Color bgColor = Colors.CadetBlue;
-        Color txColor = Colors.White;
-
+        public Color bgColor = Colors.CadetBlue;
+        public Color txColor = Colors.White;
+        public string titleText = string.Empty;
+        public string descriptionText = string.Empty;
 
         public CategoryEditorModal()
         {
@@ -68,6 +70,8 @@ namespace ChronoPhage.Pages.Elements.Modals
 
 
             this.titleInput.BackgroundColor = Colors.White;
+            this.titleInput.MaxLength = 24;
+            this.descriptionInput.MaxLength = 128;
             this.descriptionInput.BackgroundColor = Colors.White;
             this.descriptionInput.AutoSize = EditorAutoSizeOption.TextChanges;
             var title = new LegendLabel("Name:");
@@ -76,6 +80,10 @@ namespace ChronoPhage.Pages.Elements.Modals
             var description = new LegendLabel("Description:");
             this.mainStack.Children.Add(description);
             this.mainStack.Children.Add(this.descriptionInput);
+
+
+            this.descriptionInput.TextChanged += DescriptionInput_TextChanged;
+            this.titleInput.TextChanged += TitleInput_TextChanged;
 
 
             this.button_colorPicker.Text = "Chose colors...";
@@ -113,6 +121,16 @@ namespace ChronoPhage.Pages.Elements.Modals
             this.Content = this.mainGrid;
 
             this.SetButtonBlock();
+        }
+
+        private void TitleInput_TextChanged(object? sender, TextChangedEventArgs e)
+        {
+            this.titleText = this.titleInput.Text.Trim();
+        }
+
+        private void DescriptionInput_TextChanged(object? sender, TextChangedEventArgs e)
+        {
+            this.descriptionText = this.descriptionInput.Text.Trim();
         }
 
         private async void Button_close_Clicked(object? sender, EventArgs e)
@@ -170,6 +188,28 @@ namespace ChronoPhage.Pages.Elements.Modals
             this.button_colorPicker.BackgroundColor = bgColor;
             this.bgColor = bgColor;
             this.txColor = txColor;
+        }
+
+
+        public  bool CheckValid()
+        {
+            if (this.titleText.Length < 2)
+            {
+                this.Alert("Ooops!", "The name of your card is too short!", "OK");
+                return false;
+            }
+            return true;
+        }
+
+        public void Alert(string title, string message, string button = "OK")
+        {
+            DisplayAlert(title, message, button);
+        }
+
+
+        public async void Hide()
+        {
+            await Navigation.PopAsync();
         }
     }
 }

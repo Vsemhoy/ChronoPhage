@@ -26,26 +26,32 @@ namespace ChronoPhage.Pages.Elements.Cards
 
         public CategoryAddMiniCard()
         {
+            this.MinimumHeightRequest = BaseTheme.THEME.categoryItemMiniCardMinHeight;
             this.Padding          = new Thickness(1);
             this.CornerRadius     = BaseTheme.THEME.CardCorner;
             this.BackgroundColor  = Color.FromArgb("EEAAAAAA");
             this.BorderColor      = Color.FromArgb("EEAAAAAA");
             this.inFrame.Padding            = new Thickness(1);
             this.inFrame.CornerRadius       = BaseTheme.THEME.CardCorner - 1;
-            this.inFrame.BackgroundColor    = Color.FromArgb("FFEEEEEE");
+            this.inFrame.BackgroundColor    = Colors.White;
             this.inFrame.BorderColor        = Color.FromArgb("FFEEEEEE");
             this.inFrame.Padding = 5;
 
-
+            //VerticalStackLayout imageWrapperStack = new VerticalStackLayout();
+            //imageWrapperStack.VerticalOptions = LayoutOptions.Center;
             this.image.Source = "plus_square.png";
             this.image.HeightRequest = BaseTheme.THEME.MiniCardHeightMinHeight;
             this.image.Opacity = 0.7;
+            this.image.VerticalOptions = LayoutOptions.Center;
 
+            this.body.VerticalOptions = LayoutOptions.Center;
             this.body.Children.Add(this.image);
             this.inFrame.Content = this.body;
             this.Content = this.inFrame;
+     
 
-            this.body.GestureRecognizers.Add(this.onClick);
+            //this.body.GestureRecognizers.Add(this.onClick);
+            this.inFrame.GestureRecognizers.Add(this.onClick);
 
             this.onClick.Tapped += OnClick_Tapped;
         }
@@ -57,27 +63,27 @@ namespace ChronoPhage.Pages.Elements.Cards
         /// <param name="e"></param>
         private async void OnClick_Tapped(object? sender, TappedEventArgs e)
         {
-            await Task.Delay(60);
+            await Task.Delay(30);
             this.image.Opacity = 1;
             this.inFrame.Opacity = 0.85;
             this.Padding = 3;
             this.inFrame.Padding = 3;
-            await Task.Delay(60);
+            await Task.Delay(30);
             this.image.Opacity = 0.9;
             this.inFrame.Opacity = 0.9;
-            await Task.Delay(60);
+            await Task.Delay(30);
             this.image.Opacity = 0.8;
             this.inFrame.Opacity = 0.95;
             this.Padding = 2;
             this.inFrame.Padding = 4;
-            await Task.Delay(60);
+            await Task.Delay(30);
             this.image.Opacity = 0.7;
             this.inFrame.Opacity = 1;
             this.Padding = 1;
             this.inFrame.Padding = 5;
 
             //await Navigation.PushAsync(ModalManager.categoryEditorModal);
-            await Navigation.PushAsync(ModalManager.categoryEditorModal);
+            
         }
 
     }

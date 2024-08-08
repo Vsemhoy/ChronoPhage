@@ -17,6 +17,7 @@ namespace ChronoPhage.Style
         public int formFramePadding { get; set; }
         public int modalLegendTextSize { get; set; }
         public int modalLegendTopMargin { get; set; }
+        public int categoryItemMiniCardMinHeight { get; set; }
 
         public Theme_LightStandard()
         {
@@ -36,6 +37,7 @@ namespace ChronoPhage.Style
             this.formFramePadding = 14;
             this.modalLegendTextSize = 12;
             this.modalLegendTopMargin = 8;
+            this.categoryItemMiniCardMinHeight = 82;
     }
 
 

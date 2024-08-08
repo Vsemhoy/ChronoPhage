@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChronoPhage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6681cbda4dcb847a5f766192a889e095f35f18ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a2ac6ac2d4c5a92b7dec2a1639923c7c5c2e6a89")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChronoPhage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChronoPhage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

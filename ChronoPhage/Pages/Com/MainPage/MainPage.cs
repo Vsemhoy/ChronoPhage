@@ -34,6 +34,7 @@ namespace ChronoPhage.Pages.Com.MainPage
         public MainPage() 
         {
             this.Title = "Super Main page";
+            this.BackgroundColor = Color.FromHex("#F0F0F3");
 
             this.MainButton.Text = "Hello woof";
 
@@ -46,6 +47,7 @@ namespace ChronoPhage.Pages.Com.MainPage
 
 
             this.categoryStack = new CategoryStack();
+            
             this.recentTypeStack = new RecentTypeStack();
 
 
@@ -58,7 +60,7 @@ namespace ChronoPhage.Pages.Com.MainPage
             this.baseGrid.RowDefinitions.Add(new RowDefinition { Height = GridLength.Auto });
             this.baseGrid.RowDefinitions.Add(new RowDefinition { Height = GridLength.Star });
 
-            this.ScrollStack.BackgroundColor = Colors.Blue;
+            //this.ScrollStack.BackgroundColor = Colors.Blue;
 
 
             this.ActiveStack.Children.Add(label2);

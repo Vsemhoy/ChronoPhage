@@ -33,6 +33,9 @@ namespace ChronoPhage.Storage
 
         internal async static void Boot()
         {
+            Categories = await EventCategory.GetAllActiveItemsAsync();
+            Types = await EventType.GetAllActiveItemsAsync();
+
             LocalStorage.ActiveChrono = await ChronoEvent.GetActiveItem();
             if (LocalStorage.ActiveChrono != null)
             {

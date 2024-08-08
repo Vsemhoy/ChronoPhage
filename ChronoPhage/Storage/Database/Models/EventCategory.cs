@@ -93,6 +93,11 @@ namespace ChronoPhage.Storage.Database.Models
         }
 
 
+        public static async Task<EventCategory> GetItemByTitleAsync(string title)
+        {
+            return await DatabaseService.DB.Table<EventCategory>().Where(i => i.Title == title).FirstOrDefaultAsync();
+        }
+
 
         public static async Task<List<EventCategory>> GetAllItemsAsync()
         {
